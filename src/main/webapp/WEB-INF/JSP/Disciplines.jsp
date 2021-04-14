@@ -14,7 +14,7 @@
 
 <body>
 <div class="logo_wrap">
-    <div class="logo">Students management systemss</div>
+    <div class="logo">Students management systems</div>
     <a href="">Logout</a>
 </div>
 <div>
